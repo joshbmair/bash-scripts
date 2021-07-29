@@ -1,0 +1,5 @@
+#!/bin/bash
+
+alias \
+	ccomp="$HOME/.scripts/ccomp/ccomp.sh" \
+	cppcomp="$HOME/.scripts/cppcomp/cppcomp.sh" \
