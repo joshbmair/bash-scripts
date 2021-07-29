@@ -1,5 +1,5 @@
 # Shell Scripts
-# Introduction
+## Introduction
 Let's say I wanted to compile a program written in C, I can just type this in my command line:
 ```
 ccomp program.c prgrm
